@@ -1,0 +1,23 @@
+{
+  "name": "cigar2",
+  "version": "1.0.0",
+  "description": "agar client",
+  "main": "webserver.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaskiss222/Cigar2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaskiss222/Cigar2/issues"
+  },
+  "homepage": "https://github.com/lukaskiss222/Cigar2#readme"
+}
